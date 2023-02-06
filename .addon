@@ -1,0 +1,22 @@
+{
+  "Title": "Orange\u0026Grey (OpenTycoon)",
+  "Type": "map",
+  "Org": "xenthio",
+  "Ident": "opentycoonmap",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "xenthio.opentycoon"
+    ],
+    "Summary": "",
+    "Description": "",
+    "Public": true
+  }
+}
